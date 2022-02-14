@@ -1,0 +1,13 @@
+
+	FIRST ASSESMENT
+
+create a php project that contain the following feature: 
+
+	1. An Home page or landing page that can show at least 6 product (card-view) with image,name, price,short description
+	2. There must a product detail page and when click on product detail page then show detail of that product.
+	3. Visitor can search any product by the product ID.
+	4. A Login page where a user can login through the valid Credential.
+	5. After login user can see all the product into a table view.
+	6.user can see all the user info into a table view
+	7. user can upload an image.
+	8. find outr the prime number from a series & sum them all.
